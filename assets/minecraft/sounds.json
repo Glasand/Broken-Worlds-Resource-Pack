@@ -1,0 +1,9 @@
+{
+    "custom.radio":{
+        "sounds":[
+            {"name":"custom/radio/static","stream":false,"weight":4},
+            {"name":"custom/radio/music1","stream":false,"weight":2}
+        ],
+        "category":"master"
+    }
+}
